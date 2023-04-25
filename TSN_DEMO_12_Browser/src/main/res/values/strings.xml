@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Практическая работа№4</string>
+    <string name="search_hint">Поиск</string>
+    <string name="home_page">https://www.youtube.com/</string>
+    <string name="history">https://www.youtube.com/feed/history</string>
+    <string name="liked">https://www.youtube.com/playlist?list=LL</string>
+    <string name="later">https://www.youtube.com/playlist?list=WL</string>
+    <string name="subs">https://www.youtube.com/feed/subscriptions</string>
+    <string name="logout">https://www.youtube.com/logout</string>
+    <string name="kuda_otpravit">Поделиться</string>
+    <string name="iz">из</string>
+    <string name="ne_naideno">Не найдено !</string>
+</resources>
